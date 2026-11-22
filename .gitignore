@@ -1,0 +1,21 @@
+# Dependencies and generated output
+**/node_modules/
+**/.expo/
+**/dist/
+**/web-build/
+**/coverage/
+**/*.tsbuildinfo
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+
+# Local editor and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Preserve the former frontend-only Git history locally
+.frontend-git-backup/
