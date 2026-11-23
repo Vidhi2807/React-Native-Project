@@ -121,7 +121,7 @@ const styles = StyleSheet.create({
   freqChip: { paddingVertical: 10, paddingHorizontal: 16, borderRadius: 12, borderWidth: 1 },
   freqText: { fontSize: 13, fontWeight: '700' },
   submitButton: {
-    height: 52,
+    height: 51,
     borderRadius: 16,
     alignItems: 'center',
     justifyContent: 'center',
